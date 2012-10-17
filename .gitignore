@@ -13,3 +13,9 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Ignore MacVim-created .swp files
+*.swp
+
+# Ignore useless Apple-created files
+*.DS_Store
